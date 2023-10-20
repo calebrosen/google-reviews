@@ -1,2 +1,2 @@
 # google-reviews
-Fetch google reviews using places API and put them in a carousel
+Fetches 4 and 5 stars google reviews from a place ID and puts them in a responsive carousel. Uses the Google Places API.
